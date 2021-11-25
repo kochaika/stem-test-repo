@@ -5,4 +5,5 @@ Author: Konstantin
 
 `example command`
 
+Hello from nano
 
